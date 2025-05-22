@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/1013-fibonacci-number) |
+| [1642-water-bottles](https://github.com/Dhatri0612/DSA-2k25/tree/master/1642-water-bottles) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -17,4 +18,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1013-fibonacci-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/1013-fibonacci-number) |
+## Simulation
+|  |
+| ------- |
+| [1642-water-bottles](https://github.com/Dhatri0612/DSA-2k25/tree/master/1642-water-bottles) |
 <!---LeetCode Topics End-->
