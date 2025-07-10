@@ -30,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhatri0612/DSA-2k25/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhatri0612/DSA-2k25/tree/master/0027-remove-element) |
+| [1603-running-sum-of-1d-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1603-running-sum-of-1d-array) |
 | [2058-concatenation-of-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
@@ -49,4 +50,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0011-container-with-most-water](https://github.com/Dhatri0612/DSA-2k25/tree/master/0011-container-with-most-water) |
+## Prefix Sum
+|  |
+| ------- |
+| [1603-running-sum-of-1d-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1603-running-sum-of-1d-array) |
 <!---LeetCode Topics End-->
