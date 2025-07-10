@@ -22,6 +22,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1642-water-bottles](https://github.com/Dhatri0612/DSA-2k25/tree/master/1642-water-bottles) |
+| [2058-concatenation-of-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/2058-concatenation-of-array) |
 ## Array
 |  |
 | ------- |
@@ -29,6 +30,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhatri0612/DSA-2k25/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhatri0612/DSA-2k25/tree/master/0027-remove-element) |
+| [2058-concatenation-of-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/2058-concatenation-of-array) |
 ## Hash Table
 |  |
 | ------- |
