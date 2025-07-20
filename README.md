@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0011-container-with-most-water](https://github.com/Dhatri0612/DSA-2k25/tree/master/0011-container-with-most-water) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Dhatri0612/DSA-2k25/tree/master/0027-remove-element) |
+| [0136-single-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhatri0612/DSA-2k25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0283-move-zeroes](https://github.com/Dhatri0612/DSA-2k25/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Dhatri0612/DSA-2k25/tree/master/0724-find-pivot-index) |
@@ -80,4 +81,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0136-single-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0136-single-number) |
 <!---LeetCode Topics End-->
