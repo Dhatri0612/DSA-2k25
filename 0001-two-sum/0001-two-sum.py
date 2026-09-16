@@ -6,4 +6,5 @@ class Solution:
                 if nums[i]+nums[j]==target:
                     l.append(i)
                     l.append(j)
+                    break
         return l
