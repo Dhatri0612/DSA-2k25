@@ -47,11 +47,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0001-two-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dhatri0612/DSA-2k25/tree/master/0242-valid-anagram) |
 | [1635-number-of-good-pairs](https://github.com/Dhatri0612/DSA-2k25/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
 | [0058-length-of-last-word](https://github.com/Dhatri0612/DSA-2k25/tree/master/0058-length-of-last-word) |
+| [0242-valid-anagram](https://github.com/Dhatri0612/DSA-2k25/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Dhatri0612/DSA-2k25/tree/master/0344-reverse-string) |
 | [1205-defanging-an-ip-address](https://github.com/Dhatri0612/DSA-2k25/tree/master/1205-defanging-an-ip-address) |
 ## Two Pointers
@@ -85,6 +87,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
+| [0242-valid-anagram](https://github.com/Dhatri0612/DSA-2k25/tree/master/0242-valid-anagram) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
