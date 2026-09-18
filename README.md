@@ -35,6 +35,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhatri0612/DSA-2k25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhatri0612/DSA-2k25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
 | [0283-move-zeroes](https://github.com/Dhatri0612/DSA-2k25/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Dhatri0612/DSA-2k25/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
@@ -45,6 +46,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0001-two-sum) |
+| [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
 | [1635-number-of-good-pairs](https://github.com/Dhatri0612/DSA-2k25/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -82,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
