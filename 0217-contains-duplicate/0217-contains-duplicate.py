@@ -6,8 +6,7 @@ class Solution:
                 dict[num]=1
             else:
                 dict[num]+=1
-        flag=False
         for key,value in dict.items():
             if value>1:
-                flag=True
-        return flag
+                return True
+        return False
