@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [1013-fibonacci-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/1013-fibonacci-number) |
 | [1635-number-of-good-pairs](https://github.com/Dhatri0612/DSA-2k25/tree/master/1635-number-of-good-pairs) |
 | [1642-water-bottles](https://github.com/Dhatri0612/DSA-2k25/tree/master/1642-water-bottles) |
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0136-single-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhatri0612/DSA-2k25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
+| [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhatri0612/DSA-2k25/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Dhatri0612/DSA-2k25/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0001-two-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0001-two-sum) |
 | [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhatri0612/DSA-2k25/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [1635-number-of-good-pairs](https://github.com/Dhatri0612/DSA-2k25/tree/master/1635-number-of-good-pairs) |
 ## String
 |  |
@@ -83,16 +86,19 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhatri0612/DSA-2k25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 ## Sorting
 |  |
 | ------- |
 | [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Dhatri0612/DSA-2k25/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0136-single-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0136-single-number) |
+| [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 ## Linked List
 |  |
 | ------- |
