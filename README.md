@@ -38,6 +38,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Dhatri0612/DSA-2k25/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0136-single-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0136-single-number) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhatri0612/DSA-2k25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0209-minimum-size-subarray-sum) |
 | [0217-contains-duplicate](https://github.com/Dhatri0612/DSA-2k25/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhatri0612/DSA-2k25/tree/master/0283-move-zeroes) |
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0209-minimum-size-subarray-sum) |
 | [0724-find-pivot-index](https://github.com/Dhatri0612/DSA-2k25/tree/master/0724-find-pivot-index) |
 | [1603-running-sum-of-1d-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1603-running-sum-of-1d-array) |
 ## Counting
@@ -102,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Dhatri0612/DSA-2k25/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0209-minimum-size-subarray-sum) |
 | [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhatri0612/DSA-2k25/tree/master/0349-intersection-of-two-arrays) |
 ## Sorting
@@ -137,6 +140,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sliding Window
 |  |
 | ------- |
+| [0209-minimum-size-subarray-sum](https://github.com/Dhatri0612/DSA-2k25/tree/master/0209-minimum-size-subarray-sum) |
 | [0643-maximum-average-subarray-i](https://github.com/Dhatri0612/DSA-2k25/tree/master/0643-maximum-average-subarray-i) |
 | [1456-maximum-number-of-vowels-in-a-substring-of-given-length](https://github.com/Dhatri0612/DSA-2k25/tree/master/1456-maximum-number-of-vowels-in-a-substring-of-given-length) |
 <!---LeetCode Topics End-->
