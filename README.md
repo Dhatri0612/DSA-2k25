@@ -42,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Dhatri0612/DSA-2k25/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Dhatri0612/DSA-2k25/tree/master/0283-move-zeroes) |
 | [0349-intersection-of-two-arrays](https://github.com/Dhatri0612/DSA-2k25/tree/master/0349-intersection-of-two-arrays) |
+| [0643-maximum-average-subarray-i](https://github.com/Dhatri0612/DSA-2k25/tree/master/0643-maximum-average-subarray-i) |
 | [0724-find-pivot-index](https://github.com/Dhatri0612/DSA-2k25/tree/master/0724-find-pivot-index) |
 | [1019-squares-of-a-sorted-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1019-squares-of-a-sorted-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Dhatri0612/DSA-2k25/tree/master/1603-running-sum-of-1d-array) |
@@ -132,4 +133,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0023-merge-k-sorted-lists](https://github.com/Dhatri0612/DSA-2k25/tree/master/0023-merge-k-sorted-lists) |
+## Sliding Window
+|  |
+| ------- |
+| [0643-maximum-average-subarray-i](https://github.com/Dhatri0612/DSA-2k25/tree/master/0643-maximum-average-subarray-i) |
 <!---LeetCode Topics End-->
