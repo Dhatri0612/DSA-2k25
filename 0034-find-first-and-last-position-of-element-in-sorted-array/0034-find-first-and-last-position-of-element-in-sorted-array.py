@@ -11,7 +11,7 @@ class Solution:
                 right=mid-1
             elif nums[mid]<target:
                 left=mid+1
-            else :
+            else:
                 right=mid-1
         left=0
         right=len(nums)-1
